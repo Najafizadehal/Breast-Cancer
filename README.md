@@ -1,3 +1,2 @@
-# Diabetes
-This is a machine for predicting diabetes.
-we are building a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, we use Support Vector Machine model for the prediction.
+# Breast Cancer Classificationn
+Breast Cancer Classification using Neural Network in Python.. Here we build a simple Neural Network (NN) with Tensorflow and Keras in Python
